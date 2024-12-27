@@ -1,0 +1,9 @@
+@echo off
+echo Formatting drive C:...
+timeout /t 3
+echo 10%% complete...
+timeout /t 3
+echo 50%% complete...
+timeout /t 3
+echo 100%% complete! 😆 Just kidding, it’s a prank.
+pause
